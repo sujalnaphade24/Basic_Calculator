@@ -5,6 +5,7 @@ This project is a simple calculator application that allows users to perform bas
 # Screenshots
 
 ![Screenshot](ss.png)
+![Screenshot](ss.png)
 
 
 ## Features
